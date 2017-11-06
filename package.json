@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tukida/nodejs_redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tukida/nodejs_redis/issues"
+  },
+  "homepage": "https://github.com/tukida/nodejs_redis#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.0",
+    "redis": "^2.8.0"
+  }
+}
